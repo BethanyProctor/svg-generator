@@ -48,7 +48,7 @@ const init = async () => {
 
     //print the shape in a seperate file
     console.log("Generating SVG...");
-    writeToFile("./logo.svg", questions({ ...responses }));
+    writeToFile(svgFile, svgString);
     console.log('Generated logo.svg');
 }
 
