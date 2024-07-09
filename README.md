@@ -16,7 +16,7 @@
 
   ## Usage
   To make your own SVG file, first download all of the dependencies. Then, simply type "npm start" in the terminal and answer the prompts pertaining to the shape, text, text color, and background color of your SVG image. To access the image once it has been generated, located the "logo.svg" file. 
-  Here is the walkthrough of the app: <iframe src="https://drive.google.com/file/d/1WbshgyqXptR6PMuIprOn4kYRGTxyqUnt/preview" width="640" height="480"></iframe>
+  Here is the walkthrough of the app: https://drive.google.com/file/d/1WbshgyqXptR6PMuIprOn4kYRGTxyqUnt/preview
   </br>
   </br>
   Languages : JavaScript, OOP
